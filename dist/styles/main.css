@@ -1,15 +1,22 @@
 .container {
+  margin-top: 20px;
+  margin-left: 20px;
   height: 800px;
   width: 400px;
-  background-color: lightblue;
-  border-width: medium;
-  border-color: black; }
+  background-color: #3399cc;
+  border: 10px solid gray;
+  border-radius: 10px; }
 
 .header {
+  font-size: 25px;
+  font-family: Verdana;
+  text-shadow: 5px 5px 5px black;
   padding-top: 10px;
+  color: #006699;
   text-align: center; }
 
 #toDoInput {
+  height: 20px;
   margin-top: 20px;
   margin-left: 110px;
   border: 2px solid gray;
@@ -20,20 +27,43 @@
   margin-left: 10px;
   border: 2px solid gray;
   border-radius: 3px;
-  box-shadow: 3px 4px 3px black; }
+  box-shadow: 4px 4px 4px black; }
+
+h2 {
+  font-size: 40px;
+  font-family: Verdana;
+  text-shadow: 4px 4px 4px black;
+  text-align: center;
+  color: #006699; }
+
+#toDo {
+  font-size: 35px;
+  font-family: Verdana;
+  font-weight: bold;
+  color: gray;
+  text-transform: capitalize;
+  text-shadow: 4px 4px 4px black;
+  margin-left: 10px; }
 
 .container {
+  margin-top: 20px;
+  margin-left: 20px;
   height: 800px;
   width: 400px;
-  background-color: lightblue;
-  border-width: medium;
-  border-color: black; }
+  background-color: #3399cc;
+  border: 10px solid gray;
+  border-radius: 10px; }
 
 .header {
+  font-size: 25px;
+  font-family: Verdana;
+  text-shadow: 5px 5px 5px black;
   padding-top: 10px;
+  color: #006699;
   text-align: center; }
 
 #toDoInput {
+  height: 20px;
   margin-top: 20px;
   margin-left: 110px;
   border: 2px solid gray;
@@ -44,4 +74,20 @@
   margin-left: 10px;
   border: 2px solid gray;
   border-radius: 3px;
-  box-shadow: 3px 4px 3px black; }
+  box-shadow: 4px 4px 4px black; }
+
+h2 {
+  font-size: 40px;
+  font-family: Verdana;
+  text-shadow: 4px 4px 4px black;
+  text-align: center;
+  color: #006699; }
+
+#toDo {
+  font-size: 35px;
+  font-family: Verdana;
+  font-weight: bold;
+  color: gray;
+  text-transform: capitalize;
+  text-shadow: 4px 4px 4px black;
+  margin-left: 10px; }
