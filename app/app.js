@@ -1,6 +1,5 @@
 let todos = [];
 
-
 document.querySelector("#toDoSubmit")
   .addEventListener("click", (e) => {
     e.preventDefault();
