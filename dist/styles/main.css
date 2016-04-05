@@ -1,0 +1,47 @@
+.container {
+  height: 800px;
+  width: 400px;
+  background-color: lightblue;
+  border-width: medium;
+  border-color: black; }
+
+.header {
+  padding-top: 10px;
+  text-align: center; }
+
+#toDoInput {
+  margin-top: 20px;
+  margin-left: 110px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  box-shadow: 3px 4px 3px black; }
+
+#toDoSubmit {
+  margin-left: 10px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  box-shadow: 3px 4px 3px black; }
+
+.container {
+  height: 800px;
+  width: 400px;
+  background-color: lightblue;
+  border-width: medium;
+  border-color: black; }
+
+.header {
+  padding-top: 10px;
+  text-align: center; }
+
+#toDoInput {
+  margin-top: 20px;
+  margin-left: 110px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  box-shadow: 3px 4px 3px black; }
+
+#toDoSubmit {
+  margin-left: 10px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  box-shadow: 3px 4px 3px black; }
